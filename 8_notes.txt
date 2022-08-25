@@ -1,0 +1,22 @@
+c++ me control structure hote hai
+
+bina comment ke jo hum karte aa rhe the vo tha sequential control 
+
+ese hi teen hote hai 
+
+sequenctial structure control
+selection structure control
+loop structure control
+ 
+
+selection me 2 hote hai ek to hota hai if else (iski chain bhi hoti h if else-if else)
+isme hum main ke andr ek or function bante hai or vaha pe if else ka use hota hai
+or uske bad exit
+
+swtich case me hum particuar case banate hai or swrich command ka use krke statement ko break krte hai 
+agr break command ka use nhi krenge to sequential control ki tarah treat ho jata hai baki ka code 
+
+loop me tin hote hai 
+for loop 
+while loop
+do while loop

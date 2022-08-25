@@ -1,0 +1,13 @@
+// containers--->stores dats +
+//iterator---> objects that iterate the data in container (points to an element of container,like pointer) +
+//algorithms--->procedure to process data
+
+// containers of three types --> 1.sequence containers(eg vectors,list,dequeue), 
+// 2. associative (eg set,map,tress like ds), 
+// 3. derived (derived from above two--> handle real world things eg stack queue )
+
+// vector-> random acees fast , insertion/deletion->slow (fast at end) 
+// list-> (link list)random acees slow , insertion/deletion->fast than array
+// associated- sab fast hai bas random access slow hai 
+// derived depends upon data structure (stack,queue)
+
